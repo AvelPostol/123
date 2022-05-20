@@ -1,0 +1,36 @@
+#delinst{
+  background-color: #1c54fc;
+    -webkit-transition: .1s;
+    -moz-transition: .1s;
+    transition: .1s;
+    color: #fff;
+    min-width: 174px;
+    min-height: 40px;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: .02em;
+    cursor: pointer;
+    border: 0;
+    border-radius: 5px;
+    padding: 0 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: system-ui;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    width: fit-content;
+    margin: 10px 0px 0px 0px;
+}
+.workarea-content-paddings{
+  display: flex;
+  background-color: #202020;
+    flex-direction: column-reverse;
+}
+.workarea-content-paddings *{
+  color: #fff;
+}
+
+.workarea-content-paddings tr{
+  background: #515151;
+}
